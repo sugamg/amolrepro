@@ -10,7 +10,7 @@ trigger:
     - main
   paths:
     include:
-    - docs
+    - docs/*.zip
 
 
 pool:
